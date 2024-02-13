@@ -7,6 +7,11 @@ I will not be liable for any damages caused by the misappropriation of this sour
 
 - JBBS(Just Bulletin Board System) :: Demonstrate basically web application building and develoment skills.
 
+** P.S.
+This repository has source codes wasn't powered by LLM.
+
+I'm posting my portfolio like this because I don't have that level of resources on a sustainable basis.
+
 * このリポジトリの概要
 製作者の求職のためのポートフォリオ群に成ります。
 
@@ -15,3 +20,8 @@ I will not be liable for any damages caused by the misappropriation of this sour
 ** 各フォルダ内容の概要
 
 - JBBS（Just Bulletin Board System） :: 基本的な Web アプリケーションの構築や開発を行える事を証明する。
+
+** 補遺
+このリポジトリのソースコードは、 LLM の提供はありません。
+
+その程度の資源を持続的に得れていないから、この様にポートフォリオを掲載しています。

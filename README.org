@@ -1,0 +1,17 @@
+* portfolios-stack
+Portfolio collection for my job search
+
+I will not be liable for any damages caused by the misappropriation of this source code, whether or not you are hired, or for any damages that may occur after you are hired.
+
+** Director of Contents
+
+- JBBS(Just Bulletin Board System) :: Demonstrate basically web application building and develoment skills.
+
+* このリポジトリの概要
+製作者の求職のためのポートフォリオ群に成ります。
+
+このリポジトリの内容を流用したことによる採用の可否や、採用後の損害について、製作者は責任を負わないものとします。
+
+** 各フォルダ内容の概要
+
+- JBBS（Just Bulletin Board System） :: 基本的な Web アプリケーションの構築や開発を行える事を証明する。
